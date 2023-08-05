@@ -1,4 +1,4 @@
-![logo](https://github.com/Roshanvatpal/Roshanvatpal/blob/main/Roshan%20Banner.jpg)
+<img src="https://github.com/Roshanvatpal/Roshanvatpal/blob/main/Roshan%20Banner%201.png">
 <h1 align="center">Hi 👋, I'm Roshan Vatpal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
